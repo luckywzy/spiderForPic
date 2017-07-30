@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>对不起，出错啦 | 妹子图</title>
+<meta name="keywords"content="" />
+<meta name="Description" content="" />
+<style>
+.wrong404{ text-align:center; width:550px; height:300px; margin:100px auto;}
+.wrong404 p{ line-height:30px; text-align:center}
+</style>
+</head>
+
+<body>
+
+<div class="wrong404">
+  <p><img src="http://www.meizitu.com/sorry.gif" width="50" height="50" /></p>
+  <p>请检查你的地址是否正确？</p>
+  <p>很抱歉！没有找到符合条件的页面哦^ ^&nbsp;&nbsp;点击<a style="color:#03C" href="http://www.meizitu.com/">返回妹子图首页</a>吧</p>
+</div>
+
+
+
+</body>
+</html>
