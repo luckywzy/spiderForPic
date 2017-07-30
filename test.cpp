@@ -15,7 +15,7 @@ using namespace std;
 int print()
 {
     printf("hello\n");
-    
+    printf("changed\n");    
 }
 
 int main()
